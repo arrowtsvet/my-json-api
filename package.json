@@ -1,7 +1,6 @@
 {
   "name": "my-json-api",
   "version": "1.0.0",
-  "description": "CRUD API for interviews",
   "scripts": {
     "start": "json-server --host 0.0.0.0 --port $PORT db.json"
   },
